@@ -1,0 +1,10 @@
+name: EmojiHook
+version: '${project.version}'
+main: com.poyu39.emojihook.EmojiHook
+api-version: 1.19
+authors: [ poyu39 ]
+description: 在 Minecraft 中顯示 Discord Emoji
+commands:
+  EmojiHook:
+    aliases: [eh]
+    description: EmojiHook 開啟
